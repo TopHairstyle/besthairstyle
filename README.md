@@ -1,2 +1,2 @@
-# besthairstyle
-Find Your Perfect Hairstyle with our FREE questionnaire.
+# Curly-Hairstyle
+Best Curly Hairstyle Trends
